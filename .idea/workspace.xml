@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20eb1cf1-49c7-4319-9cc9-d35af976b592" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/nb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/nb/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ne/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ne/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/nl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/nl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/nl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/nl/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/nn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/nn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/nn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/nn/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/os/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/os/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pa/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pa/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pl/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pt/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pt/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pt/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pt_BR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pt_BR/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pt_BR/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/pt_BR/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ro/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ro/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ro/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ru/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ru/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ru/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ru/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sk/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sk/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sl/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sq/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sq/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sq/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sq/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sr/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sr/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sr_Latn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sr_Latn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sr_Latn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sr_Latn/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sv/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sv/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sv/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sw/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/sw/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ta/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ta/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ta/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ta/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/te/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/te/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/te/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/te/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/th/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/th/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/th/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/th/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/tr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/tr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/tr/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/tr/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/tt/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/tt/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/udm/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/udm/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/uk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/uk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/uk/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/uk/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ur/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/ur/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/vi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/vi/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/vi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/vi/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/zh_Hans/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/zh_Hans/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/zh_Hant/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/locale/zh_Hant/formats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/project_template/manage.py-tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/project_template/project_name/__init__.py-tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/project_template/project_name/settings.py-tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/project_template/project_name/urls.py-tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/project_template/project_name/wsgi.py-tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/urls/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/urls/i18n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/conf/urls/static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/checks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/af/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/af/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/af/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/af/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/am/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/am/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ar/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ar/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ar/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ar/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ast/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ast/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ast/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ast/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/az/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/az/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/az/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/az/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/be/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/be/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/be/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/be/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bg/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bg/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bg/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bg/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bn/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bn/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/br/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/br/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/br/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/br/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bs/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bs/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bs/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/bs/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ca/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ca/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ca/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ca/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/cs/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/cs/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/cs/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/cs/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/cy/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/cy/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/cy/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/cy/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/da/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/da/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/da/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/da/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/de/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/de/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/de/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/de/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/dsb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/dsb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/dsb/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/dsb/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/el/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/el/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/el/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/el/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en_AU/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en_AU/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en_AU/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en_AU/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en_GB/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en_GB/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en_GB/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/en_GB/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_AR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_AR/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_AR/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_AR/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_CO/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_CO/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_CO/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_CO/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_MX/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_MX/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_MX/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_MX/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_VE/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_VE/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_VE/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/es_VE/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/et/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/et/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/et/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/et/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/eu/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/eu/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/eu/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/eu/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fa/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fa/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fa/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fa/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fi/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fi/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fi/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fr/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fr/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fy/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fy/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fy/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/fy/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ga/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ga/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ga/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ga/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/gd/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/gd/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/gd/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/gd/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/gl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/gl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/gl/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/gl/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/he/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/he/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/he/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/he/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hi/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hi/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hi/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hr/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hr/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hsb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hsb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hsb/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hsb/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hu/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hu/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hu/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hu/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hy/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hy/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hy/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/hy/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ia/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ia/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ia/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ia/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/id/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/id/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/id/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/id/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/io/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/io/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/io/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/io/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/is/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/is/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/is/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/is/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/it/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/it/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/it/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/it/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ja/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ja/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ja/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ja/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ka/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ka/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ka/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ka/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kab/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kab/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kab/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kab/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kk/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kk/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/km/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/km/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/km/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/km/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kn/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/kn/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ko/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ko/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ko/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ko/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lb/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lb/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lt/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lt/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lt/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lt/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lv/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lv/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lv/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/lv/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mk/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mk/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ml/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ml/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ml/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ml/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mr/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/mr/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/my/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/my/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/my/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/my/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nb/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nb/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ne/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ne/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ne/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ne/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nl/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nl/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nn/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/nn/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/os/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/os/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/os/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/os/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pa/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pa/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pa/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pa/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pt/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pt/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pt/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pt/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pt_BR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pt_BR/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pt_BR/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/pt_BR/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ro/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ro/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ro/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ro/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ru/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ru/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ru/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ru/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sk/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sk/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sl/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sl/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sq/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sq/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sq/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sq/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sr_Latn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sr_Latn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sr_Latn/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sr_Latn/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sv/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sv/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sv/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sv/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sw/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sw/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sw/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/sw/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ta/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ta/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ta/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ta/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/te/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/te/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/te/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/te/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/th/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/th/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/th/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/th/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/tr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/tr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/tr/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/tr/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/tt/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/tt/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/tt/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/tt/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/udm/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/udm/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/udm/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/udm/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/uk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/uk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/uk/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/uk/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ur/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ur/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ur/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/ur/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/vi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/vi/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/vi/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/vi/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/zh_Hant/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/zh_Hant/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/zh_Hant/LC_MESSAGES/djangojs.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/locale/zh_Hant/LC_MESSAGES/djangojs.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/migrations/0002_logentry_remove_auto_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/migrations/0003_logentry_add_action_flag_choices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/sites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/autocomplete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/changelists.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/responsive_rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/vendor/select2/LICENSE-SELECT2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/css/widgets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/fonts/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/fonts/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/fonts/Roboto-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/fonts/Roboto-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/fonts/Roboto-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/calendar-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/gis/move_vertex_off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/gis/move_vertex_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-addlink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-alert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-changelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-deletelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-no.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-unknown-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-unknown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-viewlink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/icon-yes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/inline-delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/selector-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/sorting-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/tooltag-add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/img/tooltag-arrowright.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/SelectBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/SelectFilter2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/actions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/cancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/change_form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/collapse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/inlines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/inlines.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/jquery.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/popup_response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/prepopulate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/prepopulate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/prepopulate_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/timeparse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/urlify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/i18n/zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/actions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/app_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/auth/user/add_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/auth/user/change_password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/base_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/change_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/change_form_object_tools.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/change_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/change_list_object_tools.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/change_list_results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/date_hierarchy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/delete_confirmation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/delete_selected_confirmation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/edit_inline/stacked.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/edit_inline/tabular.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/filter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/includes/fieldset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/includes/object_delete_summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/invalid_setup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/object_history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/popup_response.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/prepopulated_fields_js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/search_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/submit_line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/widgets/clearable_file_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/widgets/foreign_key_raw_id.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/widgets/many_to_many_raw_id.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/widgets/radio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/widgets/related_widget_wrapper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/widgets/split_datetime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/admin/widgets/url.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/registration/password_change_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/registration/password_change_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/registration/password_reset_complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/registration/password_reset_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/registration/password_reset_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/registration/password_reset_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templates/registration/password_reset_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templatetags/admin_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templatetags/admin_modify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templatetags/admin_static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templatetags/admin_urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templatetags/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/templatetags/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/views/autocomplete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/views/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/views/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admin/widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/af/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/af/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ar/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ar/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ast/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ast/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/az/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/az/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/be/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/be/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/bg/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/bg/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/bn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/bn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/br/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/br/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/bs/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/bs/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ca/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ca/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/cs/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/cs/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/cy/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/cy/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/da/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/da/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/de/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/de/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/dsb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/dsb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/el/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/el/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/en/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/en/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/en_AU/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/en_AU/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/en_GB/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/en_GB/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/eo/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/eo/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/es/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/es/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/es_AR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/es_AR/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/es_CO/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/es_CO/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/es_MX/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/es_MX/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/es_VE/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/es_VE/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/et/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/et/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/eu/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/eu/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/fa/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/fa/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/fi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/fi/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/fr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/fr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/fy/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/fy/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ga/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ga/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/gd/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/gd/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/gl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/gl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/he/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/he/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/hi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/hi/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/hr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/hr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/hsb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/hsb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/hu/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/hu/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ia/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ia/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/id/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/id/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/io/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/io/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/is/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/is/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/it/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/it/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ja/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ja/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ka/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ka/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/kab/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/kab/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/kk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/kk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/km/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/km/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/kn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/kn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ko/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ko/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/lb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/lb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/lt/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/lt/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/lv/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/lv/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/mk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/mk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ml/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ml/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/mn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/mn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/mr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/mr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/my/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/my/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/nb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/nb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ne/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ne/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/nl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/nl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/nn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/nn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/os/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/os/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/pa/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/pa/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/pl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/pl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/pt/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/pt/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/pt_BR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/pt_BR/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ro/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ro/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ru/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ru/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sq/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sq/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sr_Latn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sr_Latn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sv/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sv/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sw/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/sw/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ta/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/ta/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/te/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/te/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/th/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/th/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/tr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/envBlueTech/Lib/site-packages/django/contrib/admindocs/locale/tr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/sistemaVotacao/app/Templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/sistemaVotacao/app/Templates/resultado_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlueTech/sistemaVotacao/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoEnquete/app/model/Empreendimento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoEnquete/app/model/Usuario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoEnquete/app/model/Voto.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projetoEnquete/app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoEnquete/app/model/Usuario.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoEnquete/app/model/Empreendimento.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoEnquete/app/migrations/0001_initial.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoEnquete/app/model/Voto.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/projetoEnquete/projetoEnquete/settings.py" />
+        <option value="$PROJECT_DIR$/projetoEnquete/app/model/Usuario.py" />
+        <option value="$PROJECT_DIR$/projetoEnquete/app/model/Voto.py" />
+        <option value="$PROJECT_DIR$/projetoEnquete/app/models.py" />
+        <option value="$PROJECT_DIR$/projetoEnquete/app/model/Empreendimento.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/ProjetoEnquete.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-508" />
+    <option name="width" value="1040" />
+    <option name="height" value="1256" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjetoEnquete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoEnquete" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoEnquete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoEnquete" type="462c0819:PsiDirectoryNode" />
+              <item name="projetoEnquete" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoEnquete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoEnquete" type="462c0819:PsiDirectoryNode" />
+              <item name="projetoEnquete" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoEnquete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoEnquete" type="462c0819:PsiDirectoryNode" />
+              <item name="projetoEnquete" type="462c0819:PsiDirectoryNode" />
+              <item name="projetoEnquete" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20eb1cf1-49c7-4319-9cc9-d35af976b592" name="Default Changelist" comment="" />
+      <created>1556999092431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556999092431</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-508" width="1040" height="1256" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.249501" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32947463" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/projetoEnquete/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1079">
+          <caret line="80" column="23" lean-forward="true" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/projetoEnquete/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/model/Voto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/model/Usuario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/model/Empreendimento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
