@@ -1,7 +1,6 @@
-from django.db import models
-from .model.Empreendimento import *
-from .model.Usuario import *
-from .model.Voto import *
+from .model.Empreendimento import Empreedimento
+from .model.Usuario import Usuario
+from .model.Voto import Voto
 
 # Create your models here.
 
