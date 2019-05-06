@@ -830,13 +830,9 @@
       <change afterPath="$PROJECT_DIR$/../BlueTech/sistemaVotacao/app/Templates/base.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BlueTech/sistemaVotacao/app/Templates/resultado_list.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BlueTech/sistemaVotacao/app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoEnquete/app/template/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoEnquete/app/template/empreendimento_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoEnquete/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoEnquete/app/template/registration/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoEnquete/app/model/Empreendimento.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetoEnquete/app/model/Empreendimento.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoEnquete/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetoEnquete/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoEnquete/projetoEnquete/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetoEnquete/projetoEnquete/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoEnquete/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetoEnquete/app/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -846,7 +842,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projetoEnquete/projetoEnquete/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -862,7 +858,7 @@
         <entry file="file://$PROJECT_DIR$/projetoEnquete/app/template/empreendimento_list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -873,8 +869,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projetoEnquete/app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            <state relative-caret-position="68">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -885,11 +881,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projetoEnquete/app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="102">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projetoEnquete/app/template/registration/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoEnquete/projetoEnquete/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="129" selection-start-line="129" selection-end-line="129" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoEnquete/app/template/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -932,18 +955,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/projetoEnquete/projetoEnquete/settings.py" />
         <option value="$PROJECT_DIR$/projetoEnquete/app/models.py" />
         <option value="$PROJECT_DIR$/projetoEnquete/app/admin.py" />
         <option value="$PROJECT_DIR$/projetoEnquete/app/migrations/0001_initial.py" />
         <option value="$PROJECT_DIR$/projetoEnquete/app/model/Usuario.py" />
         <option value="$PROJECT_DIR$/projetoEnquete/app/model/Voto.py" />
         <option value="$PROJECT_DIR$/projetoEnquete/app/template/base.html" />
-        <option value="$PROJECT_DIR$/projetoEnquete/app/urls.py" />
         <option value="$PROJECT_DIR$/projetoEnquete/projetoEnquete/urls.py" />
         <option value="$PROJECT_DIR$/projetoEnquete/app/model/Empreendimento.py" />
         <option value="$PROJECT_DIR$/projetoEnquete/app/views.py" />
         <option value="$PROJECT_DIR$/projetoEnquete/app/template/empreendimento_list.html" />
+        <option value="$PROJECT_DIR$/projetoEnquete/app/urls.py" />
+        <option value="$PROJECT_DIR$/projetoEnquete/projetoEnquete/settings.py" />
+        <option value="$PROJECT_DIR$/projetoEnquete/app/template/registration/login.html" />
       </list>
     </option>
   </component>
@@ -977,6 +1001,21 @@
               <item name="ProjetoEnquete" type="462c0819:PsiDirectoryNode" />
               <item name="projetoEnquete" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoEnquete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoEnquete" type="462c0819:PsiDirectoryNode" />
+              <item name="projetoEnquete" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoEnquete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoEnquete" type="462c0819:PsiDirectoryNode" />
+              <item name="projetoEnquete" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProjetoEnquete" type="b2602c69:ProjectViewProjectNode" />
@@ -1046,13 +1085,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557063283333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Criação das templates">
+      <created>1557105667270</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557105667270</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-508" width="1040" height="1256" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.249501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.249501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1063,7 +1110,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32947463" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.499002" visible="true" weight="0.24666072" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.499002" visible="true" weight="0.24666072" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500998" side_tool="true" weight="0.32947463" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1075,7 +1122,8 @@
     <MESSAGE value="Criação dos models" />
     <MESSAGE value="Ajustes nas models" />
     <MESSAGE value="Correção na chamada da model Empreendimento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correção na chamada da model Empreendimento" />
+    <MESSAGE value="Criação das templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação das templates" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/projetoEnquete/manage.py">
@@ -1098,16 +1146,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="40" column="114" selection-start-line="40" selection-start-column="114" selection-end-line="40" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/migrations/0002_auto_20190505_0023.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/projetoEnquete/app/model/Voto.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1124,20 +1162,6 @@
     <entry file="file://$PROJECT_DIR$/projetoEnquete/media/images/le_jardin.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/template/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projetoEnquete/projetoEnquete/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="128" column="44" selection-start-line="128" selection-start-column="44" selection-end-line="128" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projetoEnquete/app/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1148,22 +1172,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/urls.py">
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/template/empreendimento_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/template/empreendimento_list.html">
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="68">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1175,15 +1199,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/views.py">
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="663">
+          <caret line="40" column="114" selection-start-line="40" selection-start-column="114" selection-end-line="40" selection-end-column="114" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/migrations/0002_auto_20190505_0023.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/projetoEnquete/projetoEnquete/urls.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1192,6 +1216,37 @@
           <folding>
             <element signature="e#638#670#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/template/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/projetoEnquete/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoEnquete/app/template/registration/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
         </state>
       </provider>
     </entry>
