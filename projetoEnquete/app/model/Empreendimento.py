@@ -1,5 +1,4 @@
 from django.db import models
-from .Usuario import Usuario
 
 class Empreedimento(models.Model):
     EMPR_1 = 'le jardin'

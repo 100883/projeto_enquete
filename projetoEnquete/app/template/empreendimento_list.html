@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}
+Listagem de Empreendimentos
+{% endblock tituloPagina %}
+
+{% block content %}
+<div class="row">
+    {% for empreendimento in lista %}
+    <div class="col-md-4">
+        <div class="thumbnail">
+            <a href="#">
+                <img src="{{emprentimento.foto_capa.url}}" style="width:50%">
+                <div class="caption">
+                    <p>{{empreendimento.descricao}}</p>
+                </div>
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock content %}
